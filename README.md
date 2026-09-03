@@ -48,3 +48,4 @@ Este projeto foi construído utilizando as melhores práticas modernas de desenv
 - **Gemini (Google):** Atuação direta na resolução de conflitos de ambientes virtuais (`venv`/`uv`), compilação do executável autônomo (`.exe`), refinamento de bugs de sintaxe e estilização executiva avançada da planilha para o padrão empresarial.
 
 A integração de prompts estruturados com a supervisão e validação humana resultou em um software rápido, seguro e pronto para produção no ambiente de RH.
+AUTOR - Leonardo Castilho Bezerra
